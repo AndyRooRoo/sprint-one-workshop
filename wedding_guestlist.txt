@@ -1,5 +1,4 @@
 bob
-doug
 sarah
 reemda
 merlin
